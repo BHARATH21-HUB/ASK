@@ -8,7 +8,7 @@ Google Colab
 
 # Program
 ## ASK
-```
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -59,7 +59,7 @@ plt.show()
 ```
 
 ## FSK
-```
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
